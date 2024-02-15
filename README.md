@@ -1,1 +1,2 @@
+# seull.bloga
 # seull.blog
